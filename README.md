@@ -10,8 +10,6 @@ Population = https://www.census.gov/data/tables/time-series/demo/popest/2020s-co
 
 I wanted to learn how to process data using python's libraries matplotlib and pandas
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/idTrQlUiuRw)
 
 # Data Analysis Results
@@ -36,14 +34,12 @@ matplotlib
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Earthly](https://earthly.dev/blog/csv-python/)
 * [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html#min)
 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Find more efficient way to split up the csvs and to construct them.
 * Find a more efficient way to run the program so that it is not "slow" on older computers (like my laptop).
 * I will need to redo the splitting/reformating of the csvs so that it is easier to actually program.
